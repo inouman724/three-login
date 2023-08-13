@@ -68,7 +68,11 @@ footer {
 }
 .ft-borders{
     border-top: 1px solid;
-    border-bottom: 1px solid;
+}
+.secondary-footer{
+    border-top: 1px solid;
+    background-color: #FDF1EF;
+
 }
 @media only screen and (max-width: 800px) {
     .loc-marker{
